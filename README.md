@@ -2,4 +2,4 @@
 Introductory repository
 
 Rich Here,
-Primarily a Matlab coder.  My expertise is algorithms.
+I started primarily a Matlab coder.  I now do most of my work in Python. My expertise is models.  My PhD is in Systems Science - a focus on both quatitative and qualitative models.
